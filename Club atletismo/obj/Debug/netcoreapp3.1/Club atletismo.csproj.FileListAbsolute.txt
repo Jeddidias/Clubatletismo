@@ -1,0 +1,13 @@
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.csproj.AssemblyReference.cache
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.AssemblyInfoInputs.cache
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.AssemblyInfo.cs
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.csproj.CoreCompileInputs.cache
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.exe
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.deps.json
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.runtimeconfig.json
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.runtimeconfig.dev.json
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.dll
+E:\software\Visual Stuido\Club atletismo\Club atletismo\bin\Debug\netcoreapp3.1\Club atletismo.pdb
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.dll
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.pdb
+E:\software\Visual Stuido\Club atletismo\Club atletismo\obj\Debug\netcoreapp3.1\Club atletismo.genruntimeconfig.cache
